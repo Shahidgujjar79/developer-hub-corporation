@@ -141,9 +141,9 @@ from tasks import task1_iris, task2_credit, task3_churn, task4_insurance, task5_
 
 # Sidebar nav
 with st.sidebar:
-    st.markdown('<p class="sidebar-title">📁 DevelopersHub Corp</p>', unsafe_allow_html=True)
+    st.markdown('<p class="sidebar-title">Muhammad Shahid</p>', unsafe_allow_html=True)
     st.markdown("**Data Science Internship**")
-    st.markdown("*Due: 15th May 2026*")
+    st.markdown("*Due: 28th April 2026*")
     st.divider()
     st.markdown('<p class="sidebar-title">Navigate</p>', unsafe_allow_html=True)
 
